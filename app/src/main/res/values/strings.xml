@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="song_art_description">Song art</string>
+    <string name="play_button_description">Play button</string>
+    <string name="unknown_time">--:--</string>
+    <string name="prev_button_description">Skip to previous song</string>
+    <string name="next_button_description">Skip to next song</string>
+    <string name="unknown_song">Unknown song</string>
+    <string name="unknown_artist">Unknown artist</string>
+</resources>
